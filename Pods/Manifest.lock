@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (5.4.4)
+  - LoginFramework (1.0.0):
+    - Alamofire
+    - SnapKit
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - LoginFramework (from `/Users/tyagi/Desktop/LoginFramework`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SnapKit
+
+EXTERNAL SOURCES:
+  LoginFramework:
+    :path: "/Users/tyagi/Desktop/LoginFramework"
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  LoginFramework: 1ac9f68dcdafd780915bd3403e7942ce59d9c98b
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: c0ae396f6914f41cb57b3d9b3a0ba9931936e66d
+
+COCOAPODS: 1.9.2
